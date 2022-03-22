@@ -7,7 +7,7 @@ One of the essential features of many web 2.0 services is social tagging , it ca
 To extract the data  we used [Bernhard Reiner's Tumblr Tool](https://labs.polsys.net/) choosing as a central tag-node the word crypto to get a co-tag information network from the last 1946 blog’s from Tumblr (including my central tag) . In the graph_data folder you can find a tabular file containing basic descriptions of the retrieved posts and a co-tag file (GDF format) that was imported to Gephi.
 
 ## Analysis
-In the report you can find a in-depth analysis on the network , more precisely you can find : 
+In the [report](https://github.com/IliadisVictor/tumblr-crypto-sna/blob/main/Analysis%20Report.pdf) you can find a in-depth analysis on the network , more precisely you can find : 
 * Topological Properties
 * Component Measures
 * Degree Measures
